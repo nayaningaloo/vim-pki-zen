@@ -83,6 +83,14 @@ let g:pkizen_enabled = 0
 Open a certificate file or certificate bundle in vim, for example
 `/etc/ssl/certs/ca-certificates.crt`
 
+without plugin
+![screenshot-vim-pki-zen-ca-bundle-dashboard](img/screenshot-vim-pki-zen-disabled.png)
+
+with plugin
+![screenshot-vim-pki-zen-ca-bundle-dashboard](img/screenshot-vim-pki-zen-ca-bundle-dashboard.png)
+
+You can unfold and will see only the cert as is
+![screenshot-vim-pki-zen-ca-dashboard-unfold](img/screenshot-vim-pki-zen-ca-dashboard-unfold.png)
 
 
 ## Philosophy
