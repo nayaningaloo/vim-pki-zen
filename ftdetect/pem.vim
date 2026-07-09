@@ -1,5 +1,5 @@
 " vim-pki-zen filetype settings
-if !get(g:, 'pkizen_enabled', 0) | finish | endif
+if !get(g:, 'pkizen_enabled', 1) | finish | endif
 "
 if !executable('openssl')
   echoerr "Plugin 'vim-pki-zen' needs openssl - plugin will not be loaded"
